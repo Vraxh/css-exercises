@@ -1,0 +1,29 @@
+.pClass1 {
+    background-color: pink;
+    color: black;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.pClass2 {
+    background-color: pink;
+    color: black;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+
+.pClass3 {
+    background-color: pink;
+    color: black;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#divID1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#divID2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
