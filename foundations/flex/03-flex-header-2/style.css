@@ -12,6 +12,25 @@ body {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
+  /*SOLUCION*/
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+
+/*Solucion*/
+
+.header div {
+  display: flex;
+  align-items: center;
+}
+
+.left-side div {
+  margin: 8px;
+}
+.right-side div {
+  margin: 8px;
 }
 
 .profile-image {
@@ -45,4 +64,12 @@ a {
 
 ul {
   list-style-type: none;
+  /*SOLUCIONES*/
+  display: flex;
+  padding: 0px;
+}
+
+/*Soluciones*/
+.links li {
+  margin: 8px;
 }
